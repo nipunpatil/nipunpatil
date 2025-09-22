@@ -1,52 +1,71 @@
-# Hi, I'm Nipun Patil 👋
+# Hi there, I'm Nipun Patil 👋
 
-Welcome to my GitHub!  
-I'm passionate about building scalable platforms, working with distributed systems, and creating impactful products.  
-I love experimenting with new technologies and solving real-world problems through code.
+## Backend Developer | Computer Engineering Student at NMIMS
 
----
-
-## 🚀 Projects
-
-- **[Scalable Chat Platform](https://github.com/nipunpatil/scalable-chat-platform)**  
-  Real-time chat application designed for scalability and reliability.
-
-- **[Magic Portfolio for Next.js](https://github.com/nipunpatil/magic-portfolio-for-next-js)**  
-  A customizable portfolio template built with Next.js and modern web technologies.
-
-- **[Distributed Stock Alert](https://github.com/nipunpatil/distributed-stock-alert)**  
-  System for real-time stock alerts with distributed architecture.
-
-- **[Live Disaster Portal](https://github.com/nipunpatil/Live_Disaster_Portal)**  
-  Platform for live tracking and management during disasters.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nipunpatil)  
+[![GitHub followers](https://img.shields.io/github/followers/nipunpatil?label=Follow&style=social)](https://github.com/nipunpatil)
 
 ---
 
-## 🛠️ Skills & Technologies
-
-- **Languages:** Python, JavaScript, TypeScript, Java
-- **Frameworks:** Next.js, React, Node.js
-- **Cloud & DevOps:** AWS, Docker, Kubernetes
-- **Databases:** MongoDB, PostgreSQL, Redis
-- **Other:** REST APIs, Microservices, Distributed Systems
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science**  
-[Your University Name]  
-[Year of Graduation]
+### About Me
+- 🎓 Pursuing B.Tech in Computer Engineering at Narsee Monjee Institute of Management Studies, Navi Mumbai.  
+- 👨‍💻 Backend developer with strong skills in **Java**, **Python**, and **SQL**.  
+- 🚀 Interested in building scalable real-time distributed systems and RESTful APIs using **FastAPI**, **Kafka**, **Redis**, and **PostgreSQL**.  
+- 🎵 Also passionate about AI projects like evolutionary music generation using genetic algorithms.  
+- 💼 Previous experience as Technical Executive at E-Cell, NMIMS, managing event registration systems and technical infrastructure.
 
 ---
 
-## 📫 Contact
+### 🛠 Skills
 
-- [LinkedIn](https://www.linkedin.com/in/nipunpatil)
-- [Twitter](https://twitter.com/nipunpatil)
-- Email: nipunpatil@example.com
+| Languages        | Frameworks / Tools              | Databases & Platforms  |
+|------------------|--------------------------------|-----------------------|
+| Java, Python, C++ | FastAPI, Django, Kafka          | PostgreSQL, Redis     |
+| SQL, HTML, CSS    | Docker, Git, Kafka, Streamlit  | MySQL, AWS            |
 
 ---
 
-Thanks for visiting my profile!  
-Feel free to check out my repositories or reach out to collaborate.
+### 🚩 Featured Projects
+
+#### Distributed Stock Market Alert System
+[GitHub Repo](https://github.com/nipunpatil/stock-alert-system)  
+- Real-time stock alert platform with <2s latency using FastAPI, Kafka, Redis, and Docker.  
+- Fetches live market data from yfinance API and triggers alerts on threshold breaches.  
+- Scalable event-driven architecture optimized for active traders.
+
+#### Chat Platform
+[GitHub Repo](https://github.com/nipunpatil/real-time-chat-platform)  
+- Peer-to-peer real-time chat system built with Java and JDBC.  
+- Multi-threaded backend with persistent chat history storage, secured with JWT.  
+
+#### Music Composition Using Genetic Algorithms
+[GitHub Repo](https://github.com/nipunpatil/genetic-music-composer)  
+- AI-powered evolutionary music generator optimized with fitness functions for harmony and rhythm.  
+- Real-time MIDI playback and user-interactive controls via Streamlit interface.
+
+#### Live Disaster Management Portal
+[GitHub Repo](https://github.com/nipunpatil/disaster-management-portal)  
+- Live disaster alert system built with Django and Leaflet.js.  
+- Handles multilingual color-coded map overlays, complex XML feed parsing, and automated alert updates.
+
+---
+
+### 📊 GitHub Stats
+
+![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunpatil&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunpatil&langs_count=8&layout=compact&theme=dark)
+
+---
+
+### 📫 Contact Me
+
+- Email: [nipunpatil2004@gmail.com](mailto:nipunpatil2004@gmail.com)  
+- LinkedIn: [linkedin.com/in/nipunpatil](https://linkedin.com/in/nipunpatil)
+
+---
+
+*“Code is poetry written in logic.”*
+
+---
+
+*This README was crafted with care and passion by Nipun Patil.*  
