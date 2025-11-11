@@ -57,12 +57,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunpatil&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunpatil&langs_count=8&layout=compact&theme=dark)
-
----
 
 ### 📫 Contact Me
 
