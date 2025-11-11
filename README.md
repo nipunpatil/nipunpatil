@@ -58,7 +58,6 @@
 ---
 
 
-
 ### 📫 Contact Me
 
 - Email: [nipunpatil2004@gmail.com](mailto:nipunpatil2004@gmail.com)  
@@ -69,5 +68,3 @@
 *“Code is poetry written in logic.”*
 
 ---
-
-*This README was crafted with care and passion by Nipun Patil.*  
