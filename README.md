@@ -27,7 +27,8 @@
 
 ### 🚩 Featured Projects
 
-### Rivzo – Intelligent Location-Based Advertising Platform [Link] (https://rivzo.onrender.com)
+### Rivzo – Intelligent Location-Based Advertising Platform [Visit Rivzo](https://rivzo.onrender.com)
+
 - Rivzo is a city-scale advertising platform that helps brands create and manage ultra-targeted mobile ad routes for outdoor and on-the-move campaigns.
 - It intelligently maps high-value zones, optimizes delivery paths, and adjusts campaign pricing in real time based on live demand and audience reach.
 - Built for performance and precision, Rivzo processes thousands of urban routes in under a minute while maintaining a compact memory footprint.
