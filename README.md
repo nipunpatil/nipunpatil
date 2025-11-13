@@ -37,6 +37,7 @@
 
 #### Distributed Stock Market Alert System
 [GitHub Repo](https://github.com/nipunpatil/distributed-stock-alert)  
+- With latency less than 200ms for getting alerts.
 - Real-time stock alert platform with <2s latency using FastAPI, Kafka, Redis, and Docker.  
 - Fetches live market data from yfinance API and triggers alerts on threshold breaches.  
 - Scalable event-driven architecture optimized for active traders.
@@ -44,7 +45,7 @@
 #### Chat Platform
 [GitHub Repo](https://github.com/nipunpatil/scalable-chat-platform)  
 - Peer-to-peer real-time chat system built with Java and JDBC.  
-- Multi-threaded backend with persistent chat history storage, secured with JWT.  
+- Multi-threaded backend with persistent chat history storage.  
 
 #### Music Composition Using Genetic Algorithms
 [GitHub Repo](https://github.com/nipunpatil/genetic-music-composer)  
@@ -54,7 +55,7 @@
 #### Live Disaster Management Portal
 [GitHub Repo](https://github.com/nipunpatil/disaster-management-portal)  
 - Live disaster alert system built with Django and Leaflet.js.  
-- Handles multilingual color-coded map overlays, complex XML feed parsing, and automated alert updates.
+- Handles multilingual color-coded map overlays, complex XML feed parsing, and automated 30s alert updates.
 
 ---
 
