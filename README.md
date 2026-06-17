@@ -58,7 +58,7 @@ Currently interning at Red Hat, gaining exposure to enterprise Linux environment
 
 ## 🔴 Experience
 
-### Red Hat — Software Engineering Intern
+### Red Hat — Intern
 
 * Working within enterprise open-source and cloud-native environments.
 * Gaining hands-on exposure to Linux systems, container technologies, Kubernetes, and Red Hat OpenShift.
