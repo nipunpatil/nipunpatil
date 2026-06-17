@@ -1,149 +1,92 @@
-# Hi, I'm Nipun Patil 👋
+# Hey, I'm Nipun 👋
 
-## 🔴 Red Hatter | Backend Engineer | Linux, Cloud-Native & Open Source Enthusiast
-
-Backend-focused engineer passionate about Linux, open-source technologies, distributed systems, and cloud-native infrastructure. I enjoy building scalable backend applications and continuously learning how modern platforms are designed, deployed, and operated at scale.
-
-Currently interning at Red Hat, gaining exposure to enterprise Linux environments, Kubernetes ecosystems, Red Hat OpenShift, container technologies, automation practices, and cloud-native architectures.
+🔴 Red Hatter • Linux Explorer • Backend Builder • Open Source Enthusiast
 
 ---
 
-## 🚀 About Me
+I spend most of my time figuring out how large systems work.
 
-* 🔴 Red Hatter
-* 🎓 B.Tech in Computer Engineering, NMIMS Navi Mumbai
-* 💼 Software Engineering Intern at Red Hat
-* 🐧 Passionate about Linux and Open Source
-* ☁️ Interested in Cloud-Native Technologies and Enterprise Infrastructure
-* 🔧 Backend developer with experience in Java, Python, SQL, and distributed systems
-* 🚀 Enthusiastic about building reliable, scalable, and production-ready systems
+Some days that means debugging a backend service at 2 AM.
+
+Some days it means going down a rabbit hole about Linux internals, containers, Kubernetes, or how large-scale platforms stay reliable when everything around them is failing.
+
+Right now I'm interning at Red Hat, learning from engineers who build and support technologies that power some of the world's largest organizations.
 
 ---
 
-## 🛠 Tech Stack
+## What keeps me curious
 
-### Languages
+🐧 Linux
 
-* Java
-* Python
-* C++
-* SQL
+☁️ Cloud-Native Technologies
 
-### Backend Development
+📦 Containers & Kubernetes
 
-* FastAPI
-* Django
-* REST APIs
+🔴 Red Hat OpenShift
 
-### Databases
+⚡ Distributed Systems
 
-* PostgreSQL
-* MySQL
-* Redis
+🛰️ Event-Driven Architectures
 
-### Cloud-Native & Infrastructure
-
-* Linux
-* Docker
-* Kubernetes
-* Red Hat OpenShift
-* Git
-
-### Distributed Systems & Messaging
-
-* Apache Kafka
-* Event-Driven Architecture
+🌍 Open Source
 
 ---
 
-## 🔴 Experience
+## Things I've Built
 
-### Red Hat — Intern
+### Rivzo
 
-* Working within enterprise open-source and cloud-native environments.
-* Gaining hands-on exposure to Linux systems, container technologies, Kubernetes, and Red Hat OpenShift.
-* Learning enterprise-grade troubleshooting, automation, infrastructure management, and system reliability practices.
-* Collaborating with experienced engineers and learning how large-scale platforms are designed and operated.
-* Strengthening knowledge of cloud-native architectures and modern infrastructure technologies.
-
----
-
-## 🚩 Featured Projects
-
-### Rivzo — Intelligent Location-Based Advertising Platform
-
-An intelligent city-scale advertising platform that enables businesses to create highly targeted outdoor advertising campaigns using route optimization and geospatial intelligence.
-
-**Highlights**
-
-* Dynamic route optimization
-* Real-time campaign pricing
-* GPS-aware campaign visibility
-* High-performance backend architecture
-* Scalable urban route computation
-
----
+A location-intelligence platform exploring how advertising can become smarter through route optimization, geospatial data, and real-time decision making.
 
 ### Distributed Stock Market Alert System
 
-Real-time stock alerting platform built using FastAPI, Kafka, Redis, Docker, and PostgreSQL.
+An event-driven system built around FastAPI, Kafka, Redis, and PostgreSQL to deliver market alerts with low latency.
 
-**Highlights**
+### Disaster Management Portal
 
-* Event-driven architecture
-* Real-time market monitoring
-* Low-latency alert delivery
-* Horizontally scalable design
-* Distributed processing pipeline
+A platform designed to transform live disaster feeds into meaningful, real-time situational awareness through maps and alerts.
 
----
+### Genetic Music Composer
 
-### Live Disaster Management Portal
+A project born from a simple question:
 
-A real-time disaster intelligence platform that aggregates emergency alerts and visualizes risk zones through interactive mapping.
+*"Can algorithms evolve music?"*
 
-**Highlights**
-
-* Automated XML feed ingestion
-* Geospatial visualization
-* Multilingual alert support
-* Real-time monitoring and updates
+Using genetic algorithms, the system gradually develops musical compositions through iterative selection and mutation.
 
 ---
 
-### Music Composition Using Genetic Algorithms
+## Currently Exploring
 
-An evolutionary music generation system that creates musical compositions using genetic algorithms and fitness-based optimization.
-
-**Highlights**
-
-* Evolutionary composition techniques
-* MIDI generation and playback
-* Interactive music generation workflow
-
----
-
-## 📚 Currently Learning
-
-* Kubernetes Administration
-* Red Hat OpenShift
 * Enterprise Linux
-* Cloud-Native Architecture
+* Kubernetes
+* OpenShift
 * Infrastructure Automation
-* Observability & Monitoring
-* Distributed Systems Design
-* Container Platforms
+* Cloud-Native Platforms
+* System Reliability
+* Performance Engineering
 
 ---
 
-## 🤝 Connect With Me
+## Beyond Technology
 
-📧 Email: [nipunpatil2004@gmail.com](mailto:nipunpatil2004@gmail.com)
+When I'm not coding, you'll probably find me:
+
+* Reading about how large-scale systems fail
+* Exploring new open-source projects
+* Experimenting with side projects that start as random ideas
+* Learning something completely unrelated to what I was supposed to be doing
+
+---
+
+## Connect
+
+📧 [nipunpatil2004@gmail.com](mailto:nipunpatil2004@gmail.com)
 
 💼 LinkedIn: linkedin.com/in/nipunpatil
 
-🐙 GitHub: github.com/nipunpatil
-
 ---
 
-> Passionate about Linux, Open Source, Cloud-Native Technologies, and Building Reliable Systems.
+> I don't just like writing software.
+>
+> I like understanding the systems, people, and ideas that make software possible.
