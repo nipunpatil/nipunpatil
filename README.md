@@ -1,81 +1,89 @@
-# Hey, I'm Nipun 👋
+# Hi, I'm Nipun Patil 👋
 
-🔴 Red Hatter • Linux Explorer • Backend Builder • Open Source Enthusiast
+🔴 Red Hatter | Backend Developer | Linux & Cloud-Native Enthusiast
 
----
+I like understanding how things work under the hood.
 
-I spend most of my time figuring out how large systems work.
+What started with writing simple programs gradually turned into an interest in Linux, distributed systems, cloud-native technologies, and the infrastructure that powers modern applications.
 
-Some days that means debugging a backend service at 2 AM.
-
-Some days it means going down a rabbit hole about Linux internals, containers, Kubernetes, or how large-scale platforms stay reliable when everything around them is failing.
-
-Right now I'm interning at Red Hat, learning from engineers who build and support technologies that power some of the world's largest organizations.
-
----
-
-## What keeps me curious
-
-🐧 Linux
-
-☁️ Cloud-Native Technologies
-
-📦 Containers & Kubernetes
-
-🔴 Red Hat OpenShift
-
-⚡ Distributed Systems
-
-🛰️ Event-Driven Architectures
-
-🌍 Open Source
-
----
-
-## Things I've Built
-
-### Rivzo
-
-A location-intelligence platform exploring how advertising can become smarter through route optimization, geospatial data, and real-time decision making.
-
-### Distributed Stock Market Alert System
-
-An event-driven system built around FastAPI, Kafka, Redis, and PostgreSQL to deliver market alerts with low latency.
-
-### Disaster Management Portal
-
-A platform designed to transform live disaster feeds into meaningful, real-time situational awareness through maps and alerts.
-
-### Genetic Music Composer
-
-A project born from a simple question:
-
-*"Can algorithms evolve music?"*
-
-Using genetic algorithms, the system gradually develops musical compositions through iterative selection and mutation.
+Today, I'm interning at Red Hat, learning from enterprise open-source technologies while continuing to build projects that challenge me to think beyond just writing code.
 
 ---
 
 ## Currently Exploring
 
-* Enterprise Linux
-* Kubernetes
-* OpenShift
-* Infrastructure Automation
-* Cloud-Native Platforms
-* System Reliability
-* Performance Engineering
+* 🐧 Linux & Enterprise Infrastructure
+* ☸️ Kubernetes
+* 🔴 Red Hat OpenShift
+* ⚡ Distributed Systems
+* 📦 Containers & Cloud-Native Technologies
+* 📨 Event-Driven Architectures
+* 🌍 Open Source Software
 
 ---
 
-## Beyond Technology
+## A Few Things I've Built
 
-When I'm not coding, you'll probably find me:
+### 📍 Rivzo
 
-* Reading about how large-scale systems fail
-* Exploring new open-source projects
-* Experimenting with side projects that start as random ideas
-* Learning something completely unrelated to what I was supposed to be doing
+A location-intelligence platform that explores how geospatial data, route optimization, and real-time decision making can improve outdoor advertising campaigns.
+
+### 📈 Distributed Stock Market Alert System
+
+Built with FastAPI, Kafka, Redis, Docker, and PostgreSQL to deliver real-time alerts through an event-driven architecture.
+
+### 🌪️ Disaster Management Portal
+
+A platform that transforms live disaster feeds into actionable alerts and map-based visualizations for better situational awareness.
+
+### 🎵 Genetic Music Composer
+
+An experiment in evolutionary computing where musical compositions evolve through genetic algorithms and fitness-based selection.
+
+---
+
+## Technologies I Enjoy Working With
+
+**Languages**
+
+* Java
+* Python
+* C++
+* SQL
+
+**Backend**
+
+* FastAPI
+* Django
+* REST APIs
+
+**Data & Messaging**
+
+* PostgreSQL
+* MySQL
+* Redis
+* Apache Kafka
+
+**Infrastructure**
+
+* Linux
+* Docker
+* Kubernetes
+* OpenShift
+* Git
+
+---
+
+## What You'll Find Here
+
+Most repositories on this profile are things I've built while trying to answer questions like:
+
+* How do distributed systems communicate reliably?
+* How can software react to events in real time?
+* How do modern cloud-native platforms scale?
+* What happens beneath the abstractions we use every day?
+
+If a project taught me something interesting, it usually ends up here.
 
 ---
 
@@ -87,6 +95,4 @@ When I'm not coding, you'll probably find me:
 
 ---
 
-> I don't just like writing software.
->
-> I like understanding the systems, people, and ideas that make software possible.
+> Always learning. Always building. Always curious about what happens behind the scenes.
