@@ -1,72 +1,149 @@
-# Hi there, I'm Nipun Patil 👋
+# Hi, I'm Nipun Patil 👋
 
-## Backend Developer | Computer Engineering Student at NMIMS
+## 🔴 Red Hatter | Backend Engineer | Linux, Cloud-Native & Open Source Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nipunpatil)  
-[![GitHub followers](https://img.shields.io/github/followers/nipunpatil?label=Follow&style=social)](https://github.com/nipunpatil)
+Backend-focused engineer passionate about Linux, open-source technologies, distributed systems, and cloud-native infrastructure. I enjoy building scalable backend applications and continuously learning how modern platforms are designed, deployed, and operated at scale.
 
----
-
-### About Me
-- 🎓 Pursuing B.Tech in Computer Engineering at Narsee Monjee Institute of Management Studies, Navi Mumbai.  
-- 👨‍💻 Backend developer with strong skills in **Java**, **Python**, and **SQL**.  
-- 🚀 Interested in building scalable real-time distributed systems and RESTful APIs using **FastAPI**, **Kafka**, **Redis**, and **PostgreSQL**.  
-- 🎵 Also passionate about AI projects like evolutionary music generation using genetic algorithms.  
-- 💼 Previous experience as Technical Executive at E-Cell, NMIMS, managing event registration systems and technical infrastructure.
+Currently interning at Red Hat, gaining exposure to enterprise Linux environments, Kubernetes ecosystems, Red Hat OpenShift, container technologies, automation practices, and cloud-native architectures.
 
 ---
 
-### 🛠 Skills
+## 🚀 About Me
 
-| Languages        | Frameworks / Tools              | Databases & Platforms  |
-|------------------|--------------------------------|-----------------------|
-| Java, Python, C++ | FastAPI, Django               | PostgreSQL, Redis     |
-| SQL, HTML, CSS    | Docker, Git, Kafka             | MySQL, AWS            |
-
----
-
-### 🚩 Featured Projects
-
-### Rivzo – Intelligent Location-Based Advertising Platform [Visit Rivzo](https://rivzo.onrender.com)
-
-- Rivzo is a city-scale advertising platform that helps brands create and manage ultra-targeted mobile ad routes for outdoor and on-the-move campaigns.
-- It intelligently maps high-value zones, optimizes delivery paths, and adjusts campaign pricing in real time based on live demand and audience reach.
-- Built for performance and precision, Rivzo processes thousands of urban routes in under a minute while maintaining a compact memory footprint.
-- Its adaptive logic ensures that every route maximizes visibility, coverage, and cost efficiency for advertisers.
-- With secure onboarding, real-time GPS visibility, and an integrated assistant for campaign insights, Rivzo bridges data-driven targeting with scalable ad delivery, making it a powerful platform for location-based marketing.
-
-#### Distributed Stock Market Alert System
-[GitHub Repo](https://github.com/nipunpatil/distributed-stock-alert)  
-- With latency less than 200ms for getting alerts.
-- Real-time stock alert platform with <2s latency using FastAPI, Kafka, Redis, and Docker.  
-- Fetches live market data from yfinance API and triggers alerts on threshold breaches.  
-- Scalable event-driven architecture optimized for active traders.
-
-#### Chat Platform
-[GitHub Repo](https://github.com/nipunpatil/scalable-chat-platform)  
-- Peer-to-peer real-time chat system built with Java and JDBC.  
-- Multi-threaded backend with persistent chat history storage.  
-
-#### Music Composition Using Genetic Algorithms
-[GitHub Repo](https://github.com/nipunpatil/genetic-music-composer)  
-- AI-powered evolutionary music generator optimized with fitness functions for harmony and rhythm.  
-- Real-time MIDI playback and user-interactive controls via Streamlit interface.
-
-#### Live Disaster Management Portal
-[GitHub Repo](https://github.com/nipunpatil/disaster-management-portal)  
-- Live disaster alert system built with Django and Leaflet.js.  
-- Handles multilingual color-coded map overlays, complex XML feed parsing, and automated 30s alert updates.
+* 🔴 Red Hatter
+* 🎓 B.Tech in Computer Engineering, NMIMS Navi Mumbai
+* 💼 Software Engineering Intern at Red Hat
+* 🐧 Passionate about Linux and Open Source
+* ☁️ Interested in Cloud-Native Technologies and Enterprise Infrastructure
+* 🔧 Backend developer with experience in Java, Python, SQL, and distributed systems
+* 🚀 Enthusiastic about building reliable, scalable, and production-ready systems
 
 ---
 
+## 🛠 Tech Stack
 
-### 📫 Contact Me
+### Languages
 
-- Email: [nipunpatil2004@gmail.com](mailto:nipunpatil2004@gmail.com)  
-- LinkedIn: [linkedin.com/in/nipunpatil](https://linkedin.com/in/nipunpatil)
+* Java
+* Python
+* C++
+* SQL
+
+### Backend Development
+
+* FastAPI
+* Django
+* REST APIs
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* Redis
+
+### Cloud-Native & Infrastructure
+
+* Linux
+* Docker
+* Kubernetes
+* Red Hat OpenShift
+* Git
+
+### Distributed Systems & Messaging
+
+* Apache Kafka
+* Event-Driven Architecture
 
 ---
 
-*“Code is poetry written in logic.”*
+## 🔴 Experience
+
+### Red Hat — Software Engineering Intern
+
+* Working within enterprise open-source and cloud-native environments.
+* Gaining hands-on exposure to Linux systems, container technologies, Kubernetes, and Red Hat OpenShift.
+* Learning enterprise-grade troubleshooting, automation, infrastructure management, and system reliability practices.
+* Collaborating with experienced engineers and learning how large-scale platforms are designed and operated.
+* Strengthening knowledge of cloud-native architectures and modern infrastructure technologies.
 
 ---
+
+## 🚩 Featured Projects
+
+### Rivzo — Intelligent Location-Based Advertising Platform
+
+An intelligent city-scale advertising platform that enables businesses to create highly targeted outdoor advertising campaigns using route optimization and geospatial intelligence.
+
+**Highlights**
+
+* Dynamic route optimization
+* Real-time campaign pricing
+* GPS-aware campaign visibility
+* High-performance backend architecture
+* Scalable urban route computation
+
+---
+
+### Distributed Stock Market Alert System
+
+Real-time stock alerting platform built using FastAPI, Kafka, Redis, Docker, and PostgreSQL.
+
+**Highlights**
+
+* Event-driven architecture
+* Real-time market monitoring
+* Low-latency alert delivery
+* Horizontally scalable design
+* Distributed processing pipeline
+
+---
+
+### Live Disaster Management Portal
+
+A real-time disaster intelligence platform that aggregates emergency alerts and visualizes risk zones through interactive mapping.
+
+**Highlights**
+
+* Automated XML feed ingestion
+* Geospatial visualization
+* Multilingual alert support
+* Real-time monitoring and updates
+
+---
+
+### Music Composition Using Genetic Algorithms
+
+An evolutionary music generation system that creates musical compositions using genetic algorithms and fitness-based optimization.
+
+**Highlights**
+
+* Evolutionary composition techniques
+* MIDI generation and playback
+* Interactive music generation workflow
+
+---
+
+## 📚 Currently Learning
+
+* Kubernetes Administration
+* Red Hat OpenShift
+* Enterprise Linux
+* Cloud-Native Architecture
+* Infrastructure Automation
+* Observability & Monitoring
+* Distributed Systems Design
+* Container Platforms
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: [nipunpatil2004@gmail.com](mailto:nipunpatil2004@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/nipunpatil
+
+🐙 GitHub: github.com/nipunpatil
+
+---
+
+> Passionate about Linux, Open Source, Cloud-Native Technologies, and Building Reliable Systems.
